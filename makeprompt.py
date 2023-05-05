@@ -19,5 +19,3 @@ for i in range(2, len(sys.argv)):
         # Echo the modified line
         if line != '':
             print(line)
-    # Add a newline character between each loop
-    print()
