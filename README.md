@@ -8,7 +8,11 @@ A man running in %
 A lion running in %
 
 Command:
-php makeprompt.php filename.txt 'forrest' 'jungle' 'desert'
+php makeprompt.php filename.txt "forrest" "jungle" "desert"
+OR
+py makeprompt.py filename.txt "forrest" "jungle" "desert"
+
+(Double quotes needed for Python)
 
 Will produce output :
 
